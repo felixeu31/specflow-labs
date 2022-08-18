@@ -1,0 +1,1 @@
+This solution has been created following this tutorial [Getting started tutorial](https://docs.specflow.org/projects/getting-started/en/latest/index.html) from specflow docs
